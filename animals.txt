@@ -1,0 +1,5 @@
+Dog Fluffy 3 Labrador
+Cat Whiskers 2 true
+Bird Tweety 1 true
+Dog Buddy 5 GoldenRetriever
+Cat Mittens 4 false
